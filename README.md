@@ -3,6 +3,8 @@
 
 An Android RAT that written in completely C# by me (qH0sT a.k.a Sagopa K)  
 
+I will be AFK again for 1 month, don't open the issue (:  
+
 +How can I build a Client?  
 - https://www.youtube.com/watch?v=3LEegvEp8_E  (thanks to AndroTricks for this video)  
 
